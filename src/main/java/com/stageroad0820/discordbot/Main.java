@@ -12,7 +12,7 @@ import javax.security.auth.login.LoginException;
 
 public class Main {
 	// 디스코드 봇 로그인에 필요한 토큰
-	private static final String TOKEN = "OTQzODc3OTQ3NjkyMDU2Njg3.Yg5c1w.mfQAwwxSUvRLLRbZ-PKdW3ZMoMk";
+	private static final String TOKEN = "봇 토큰";
 
 	private static JDABuilder builder;
 
